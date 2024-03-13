@@ -8,6 +8,20 @@ Make your notes into different layouts.
 
 Render your notes with different layouts based on the selected template.
 
+## Templify Embed
+
+You can copy view state via any view's header menu and paste it into Templify codeblock, like this:
+
+````markdown
+```templify-embed
+{"state":{"query":"templify","matchingCase":false,"explainSearch":true,"collapseAll":true,"extraContext":true,"sortOrder":"byCreatedTime"},"type":"search"}
+```
+````
+
+And it will be rendered like:
+
+![templify-embed](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify-2.png)
+
 ## Current Templates
 
 - **Cornell template**: The Cornell method provides a systematic format for condensing and organizing notes. This system of notetaking is both simple and efficient. It is a format for organizing notes that splits each page into three sections: a 2.5-inch column on the left, a 2-inch column on the right, and a 6-inch column in the middle. The right column is used for class notes, the large left column is used to formulate questions based on the notes taken, and the bottom space is used to summarize the notes.
