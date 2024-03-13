@@ -1,4 +1,8 @@
 
+# 0.0.6
+
+- fix: cannot save content correctly
+
 # 0.0.5
 
 - doc: support english template by default.
