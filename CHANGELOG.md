@@ -1,7 +1,8 @@
 
 # 0.0.6
 
-- fix: cannot save content correctly
+- fix: cannot save content correctly;
+- feat: support embed view via modal(You can set hotkey for this);
 
 # 0.0.5
 
