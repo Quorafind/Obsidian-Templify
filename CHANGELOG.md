@@ -2,6 +2,7 @@
 # 0.0.5
 
 - doc: support english template by default.
+- fix: emoji not support in template.
 
 
 # 0.0.1~0.0.4
