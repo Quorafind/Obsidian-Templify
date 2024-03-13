@@ -1,6 +1,13 @@
 
 
-# 0.0.1
+
+
+# 0.0.5
+
+- doc: support english template by default.
+
+
+# 0.0.1~0.0.4
 
 - feat: support daily/cornell/eisenhower template;
 - feat: support templify market;
