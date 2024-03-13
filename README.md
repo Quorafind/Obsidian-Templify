@@ -2,6 +2,8 @@
 
 Make your notes into different layouts.
 
+![templify](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify.png)
+
 ## Features
 
 Render your notes with different layouts based on the selected template.
