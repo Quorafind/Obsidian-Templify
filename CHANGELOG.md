@@ -7,3 +7,4 @@
 - feat: support create note based on template;
 - feat: support eisenhower color;
 - style: add class for editor or widget component;
+- style: add all style for default templates;
