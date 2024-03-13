@@ -2,7 +2,7 @@
 
 Make your notes into different layouts.
 
-![templify](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify.png)
+![templify](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify.gif)
 
 ## Features
 
