@@ -1,4 +1,9 @@
 
+# 0.0.7 ~ 0.0.8
+
+- feat: support settings for folder and hide header;
+- style: fixed too high view;
+
 # 0.0.6
 
 - fix: cannot save content correctly;
