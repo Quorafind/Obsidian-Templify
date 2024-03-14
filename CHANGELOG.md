@@ -1,9 +1,10 @@
 
-# 0.0.10
+# 0.0.10 ~ 0.0.11
 
 - chore: update i18n
 - style: update i18n
 - style: update background;
+- fix: dark mode background;
 
 # 0.0.9 
 
