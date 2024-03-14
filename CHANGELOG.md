@@ -1,4 +1,10 @@
 
+# 0.0.10
+
+- chore: update i18n
+- style: update i18n
+- style: update background;
+
 # 0.0.9 
 
 - feat: support context menu to embed view;
