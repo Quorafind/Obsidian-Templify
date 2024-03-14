@@ -1,4 +1,8 @@
 
+# 0.0.9 
+
+- feat: support context menu to embed view;
+
 # 0.0.7 ~ 0.0.8
 
 - feat: support settings for folder and hide header;
