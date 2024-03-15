@@ -1,9 +1,12 @@
-# Templify
+<div align="center">
+<img src="./media/layout-template.svg"> 
+<p>Templify: 将您的笔记转换为不同的布局。</p>
+</div>
 
-| [English](./README.md) | [中文](./README-ZH.md) |
-| --- |-----------|
+<p align="center">
+<a href="https://github.com/Quorafind/Obsidian-Templify/blob/main/README.md">English</a> | <a href="https://github.com/Quorafind/Obsidian-Templify/blob/main/README-ZH.md">中文</a>
+</p>
 
-将您的笔记转换为不同的布局。
 
 ![templify](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify.gif)
 
