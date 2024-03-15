@@ -1,4 +1,8 @@
 
+# 0.0.13
+
+- style: add icon to templify note(default);
+
 # 0.0.12
 
 - style: update border and background color style;
