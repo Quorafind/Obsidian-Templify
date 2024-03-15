@@ -1,4 +1,8 @@
 
+# 0.0.12
+
+- style: update border and background color style;
+
 # 0.0.10 ~ 0.0.11
 
 - chore: update i18n
