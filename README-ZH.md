@@ -10,6 +10,8 @@
 
 ![templify](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify.gif)
 
+更详细的说明在[这里](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify-demo.mp4).
+
 ## 特点
 
 根据所选模板以不同的布局呈现您的笔记。

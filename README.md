@@ -11,6 +11,8 @@
 
 ![templify](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify.gif)
 
+A more detailed video tutorial is available [here](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify-demo.mp4).
+
 ## Features
 
 Render your notes with different layouts based on the selected template.
