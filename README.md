@@ -31,8 +31,8 @@ And it will be rendered like:
 
 ## Current Templates
 
-- **Cornell template**: The Cornell method provides a systematic format for condensing and organizing notes. This system of notetaking is both simple and efficient. It is a format for organizing notes that splits each page into three sections: a 2.5-inch column on the left, a 2-inch column on the right, and a 6-inch column in the middle. The right column is used for class notes, the large left column is used to formulate questions based on the notes taken, and the bottom space is used to summarize the notes.
-- **Eisenhower template**: The Eisenhower Matrix is a method for organizing your tasks. It is a simple 2x2 matrix that helps you prioritize tasks based on their urgency and importance. It is named after the 34th President of the United States, Dwight D. Eisenhower, who was known for his ability to make tough decisions quickly.
+- **Cornell template**: The Cornell method provides a systematic format for condensing and organizing notes.
+- **Eisenhower template**: The Eisenhower Matrix is a method for organizing your tasks. It is a simple 2x2 matrix that helps you prioritize tasks based on their urgency and importance.
 - **Custom template**: You can create your own template by using the `Templify` plugin.
 
 ## How to create a custom template
