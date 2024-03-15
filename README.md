@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./media/layout-template.svg"> 
+<img height="48" width="48" src="./media/layout-template.svg"> 
 <p>Templify: make your notes into different layouts.</p>
 </div>
 
