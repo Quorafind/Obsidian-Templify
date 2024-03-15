@@ -27,7 +27,7 @@ You can copy view state via any view's header menu and paste it into Templify co
 
 And it will be rendered like:
 
-![templify-embed](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify-2.png)
+![templify-embed](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify-3.png)
 
 ## Current Templates
 

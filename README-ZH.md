@@ -26,7 +26,7 @@
 
 它将呈现如下：
 
-![templify-embed](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify-2.png)
+![templify-embed](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify-3.png)
 
 ## 当前模板
 
