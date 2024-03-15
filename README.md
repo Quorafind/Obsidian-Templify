@@ -1,5 +1,8 @@
 # Templify
 
+| [English](./README.md) | [中文](./README-ZH.md) |
+| --- | --- |
+
 Make your notes into different layouts.
 
 ![templify](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify.gif)

@@ -3,6 +3,7 @@
 
 - style: update border and background color style;
 - settings: support toggle paper like in settings;
+- doc: update readme
 
 # 0.0.10 ~ 0.0.11
 
