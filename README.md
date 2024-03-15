@@ -1,6 +1,6 @@
 <div align="center">
 <img height="48" width="48" src="./media/layout-template.svg"> 
-<p>Templify: make your notes into different layouts.</p>
+<p>Templify [/ˈtem.plɪ.faɪ/]: make your notes into different layouts.</p>
 </div>
 
 <p align="center">

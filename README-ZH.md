@@ -1,6 +1,6 @@
 <div align="center">
 <img height="48" width="48" src="./media/layout-template.svg"> 
-<p>Templify: 将您的笔记转换为不同的布局。</p>
+<p>Templify [/ˈtem.plɪ.faɪ/]: 将您的笔记转换为不同的布局。</p>
 </div>
 
 <p align="center">
