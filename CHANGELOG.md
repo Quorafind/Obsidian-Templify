@@ -2,6 +2,8 @@
 # 0.0.13
 
 - style: add icon to templify note(default);
+- feat: support recent files;
+- feat: support new template `daily-note`
 
 # 0.0.12
 
