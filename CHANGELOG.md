@@ -4,6 +4,7 @@
 - style: add icon to templify note(default);
 - feat: support recent files;
 - feat: support new template `daily-note`
+- chore: update readme
 
 # 0.0.12
 

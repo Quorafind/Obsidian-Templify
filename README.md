@@ -7,11 +7,13 @@
 <a href="https://github.com/Quorafind/Obsidian-Templify/blob/main/README.md">English</a> | <a href="https://github.com/Quorafind/Obsidian-Templify/blob/main/README-ZH.md">中文</a>
 </p>
 
-
-
 ![templify](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify.gif)
 
+> [!warning]
+> The Templify plugin **is not open-source**. However, the Obsidian team has the authority to review the source code of Templify.
+
 A more detailed video tutorial is available [here](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify-demo.mp4).
+
 
 ## Features
 

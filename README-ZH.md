@@ -10,6 +10,9 @@
 
 ![templify](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify.gif)
 
+> [!warning]
+> Templify 插件**不是开源**的。但是 Obsidian 团队有权审查 Templify 的源代码。
+
 更详细的说明在[这里](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify-demo.mp4).
 
 ## 特点
