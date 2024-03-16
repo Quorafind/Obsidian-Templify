@@ -1,4 +1,8 @@
 
+# 0.0.14 ~ 0.0.15
+
+- feat: support better daily note template;
+
 # 0.0.13
 
 - style: add icon to templify note(default);
