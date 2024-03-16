@@ -27,6 +27,12 @@ You can copy view state via any view's header menu and paste it into Templify co
 ```
 ````
 
+Or :
+
+> You need to open the project/graph/kanban/canvas/etc. view in another tab, 
+> then go back to the note you want to embed it into, and then you can run the Embed view into current note command where you can select that tab. And you can close it afterwards.
+> Or right-click on the editor and select Embed view.
+
 And it will be rendered like:
 
 ![templify-embed](https://raw.githubusercontent.com/quorafind/obsidian-templify/main/media/templify-3.png)
