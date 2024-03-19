@@ -1,4 +1,8 @@
 
+# 0.0.16
+
+- fix: cannot edit file correctly
+
 # 0.0.14 ~ 0.0.15
 
 - feat: support better daily note template;
