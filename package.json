@@ -1,6 +1,6 @@
 {
 	"name": "templify",
-	"version": "0.0.15",
+	"version": "0.0.16-0",
 	"scripts": {
 		"release": "dotenv release-it --"
 	},
