@@ -1,4 +1,8 @@
 
+# 0.0.17
+
+- style: hide pro features for basic users;
+
 # 0.0.16
 
 - fix: cannot edit file correctly
