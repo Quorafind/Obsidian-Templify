@@ -1,7 +1,11 @@
 
 # 0.0.17
 
-- style: hide pro features for basic users;
+> [!note]+ English
+> - fix: cannot save folder path correctly
+
+> [!note]- 中文
+> - 修复：无法正确保存文件夹路径
 
 # 0.0.16
 
