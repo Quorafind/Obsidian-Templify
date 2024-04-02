@@ -1,15 +1,13 @@
 
-# 0.0.17
+# 0.0.16
 
-> [!note]+ English
+- > [!note]+ English
 > - fix: cannot save folder path correctly
+> - fix: cannot edit file correctly
 
 > [!note]- 中文
 > - 修复：无法正确保存文件夹路径
-
-# 0.0.16
-
-- fix: cannot edit file correctly
+> - 修复：无法正确编辑文件
 
 # 0.0.14 ~ 0.0.15
 
