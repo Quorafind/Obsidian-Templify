@@ -1,7 +1,17 @@
 
+# 0.2.0-beta
+
+> [!note]+ English
+> - feat: support templify embed;
+> - feat: support custom template;
+
+> [!note]- 中文
+> - 新增：支持嵌入视图；
+> - 新增：支持自定义模板；
+
 # 0.0.16
 
-- > [!note]+ English
+> [!note]+ English
 > - fix: cannot save folder path correctly
 > - fix: cannot edit file correctly
 
