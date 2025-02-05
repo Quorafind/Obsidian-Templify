@@ -2,7 +2,7 @@
   "id": "templify",
   "name": "Templify",
   "description": "(Closed Source) Multi layout for one note.",
-  "version": "0.0.16",
+  "version": "0.1.0",
   "author": "Boninall",
   "authorUrl": "https://github.com/Quorafind/",
   "isDesktopOnly": false,
