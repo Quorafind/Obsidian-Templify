@@ -1,11 +1,11 @@
-import { copyFile, readFile, writeFile } from "fs/promises";
-import { join } from "path";
+import { copyFile, readFile, writeFile } from "node:fs/promises";
+import { join } from "node:path";
 import { Plugin } from "release-it";
 import semverPrerelease from "semver/functions/prerelease.js";
 
-const mainManifest = "manifest.json",
-  betaManifest = "manifest-beta.json",
-  versionsList = "versions.json";
+const mainManifest = "manifest.json";
+const betaManifest = "manifest-beta.json"; 
+const versionsList = "versions.json";
 const targets = [mainManifest, betaManifest, versionsList];
 
 const isPreRelease = (version) => semverPrerelease(version) !== null;
@@ -38,8 +38,8 @@ class ObsidianVersionBump extends Plugin {
     const latest = isPreRelease(this.config.contextOptions.latestVersion);
     let manifestToRead = this.getManifest(latest);
     this.log.exec(`Reading manifest from ${manifestToRead}`, isDryRun);
-    let manifest;
-    if (!(manifest = await this.readJson(manifestToRead))) {
+    let manifest = await this.readJson(manifestToRead);
+    if (!manifest) {
       manifestToRead = this.getManifest(!latest);
       this.log.exec(`retry reading manifest from ${manifestToRead}`, isDryRun);
       manifest = await this.readJson(manifestToRead);

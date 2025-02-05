@@ -1,8 +1,8 @@
-import {createReadStream, createWriteStream, readFileSync} from "fs";
-import {rm} from "fs/promises";
+import {createReadStream, createWriteStream, readFileSync} from "node:fs";
+import {rm} from "node:fs/promises";
 import JSZip from "jszip";
-import {join} from "path";
-import {pipeline} from "stream/promises";
+import {join} from "node:path";
+import {pipeline} from "node:stream/promises";
 import {globby} from "globby"
 
 const assets = ["main.js", "styles.css", "manifest.json"];
@@ -19,4 +19,4 @@ await pipeline(
 	zip.generateNodeStream({type: "nodebuffer", streamFiles: true, compression: "DEFLATE"}),
 	createWriteStream(out),
 );
-console.log(out + " written.");
+console.log(`${out} written.`);

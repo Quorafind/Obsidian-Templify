@@ -1,5 +1,5 @@
-import { copyFile, rename, writeFile } from "fs/promises";
-import { dirname, join } from "path";
+import { copyFile, rename, writeFile } from "node:fs/promises";
+import { dirname, join } from "node:path";
 
 /**
  * @param {{ hotreload?: boolean, beta?:boolean }} config
