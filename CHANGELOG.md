@@ -1,13 +1,16 @@
 
-# 0.2.0-beta
+
+# 0.1.x
 
 > [!note]+ English
 > - feat: support templify embed;
 > - feat: support custom template;
+> - feat: support tag cloud/caption/heading widget;
 
 > [!note]- 中文
 > - 新增：支持嵌入视图；
 > - 新增：支持自定义模板；
+> - 新增：支持标签云/标题/标题小部件；
 
 # 0.0.16
 
