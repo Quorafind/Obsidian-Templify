@@ -7,6 +7,7 @@
 > - feat: support tag cloud/caption/heading widget;
 > - fix: cannot create note correctly;
 > - feat: alert when select a new layout when using layout editor;
+> - fix: cannot parse title in editing note correctly;
 
 > [!note]- 中文
 >
@@ -15,6 +16,7 @@
 > - 新增：支持标签云/标题/标题小部件；
 > - 修复：无法正确创建笔记；
 > - 新增：使用布局编辑器时，选择新布局时会弹窗提示；
+> - 修复：无法正确解析笔记标题；
 
 # 0.0.16
 
