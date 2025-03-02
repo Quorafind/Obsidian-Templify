@@ -1,3 +1,6 @@
+
+
+
 # 0.1.x
 
 > [!note]+ English
@@ -9,6 +12,8 @@
 > - feat: alert when select a new layout when using layout editor;
 > - fix: cannot parse title in editing note correctly;
 > - feat: support verify token in settings;
+> - feat: support using class to update color/font-size/font-family/background;
+> - feat: support using icon in editor title;
 
 > [!note]- 中文
 >
@@ -19,6 +24,8 @@
 > - 新增：使用布局编辑器时，选择新布局时会弹窗提示；
 > - 修复：无法正确解析笔记标题；
 > - 新增：支持在设置中验证令牌；
+> - 新增：支持使用类更新颜色/字体大小/字体/背景；
+> - 新增：支持在编辑器标题中使用图标；
 
 # 0.0.16
 
