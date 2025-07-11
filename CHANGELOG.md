@@ -1,3 +1,15 @@
+# 0.2.0
+
+> [!note]+ English
+>
+> - fix: compatibility issue with kanban.
+> - improve: new layout editor.
+
+> [!note]- 中文
+>
+> - 修复：与看板插件的兼容性问题；
+> - 改进：新的布局编辑器。
+
 # 0.1.x
 
 > [!note]+ English
