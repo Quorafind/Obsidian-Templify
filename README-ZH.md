@@ -43,6 +43,15 @@
 
 尚未提供
 
+## 验证
+
+Templify 的部分功能需要 [PKMer](https://pkmer.cn) 账号。解锁步骤：
+
+1. 在 [pkmer.cn](https://pkmer.cn) 注册账号。
+2. 在 Obsidian 中打开 Templify 插件设置。
+3. 点击 **Login with PKMer** 并完成认证流程。
+4. 登录后即可使用所有高级功能。
+
 ## 如何使用
 
 1. 点击左侧边栏中的 Templify 图标打开插件。

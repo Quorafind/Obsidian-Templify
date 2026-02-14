@@ -1,3 +1,55 @@
+# 0.5.0
+
+> [!note]+ English
+>
+> ### New Features
+> - feat: replace verification system with PKMer OAuth login (register at [pkmer.cn](https://pkmer.cn))
+> - feat: add custom grid system (TemplifyGrid) replacing react-grid-layout, with drag, resize, and external drop support
+> - feat: add local widget types — clocks, calendars, todos, and misc widgets (pomodoro, countdown, habit tracker, etc.)
+> - feat: add Dataview widget type for rendering Dataview queries in layouts
+> - feat: add Base widget type for generic embedded content
+> - feat: add background customization — patterns, images, and videos with opacity/blur/size controls
+> - feat: add banner (cover image) support with repositioning
+> - feat: add page icon support (icons and emoji)
+> - feat: add background pattern styles (dots, grid, lines, diagonal, cross, zigzag, boxes, diamonds)
+>
+> ### Improvements
+> - refactor: migrate to Tailwind CSS v4 with colon prefix (`tpfy:`) for better build performance
+> - refactor: update all UI components to new Tailwind prefix convention
+> - refactor: improve document sync logic and conflict resolution
+> - refactor: improve overall rendering performance
+> - refactor: update widget configuration and registry system
+> - feat: update translations for all new features (English and Chinese)
+>
+> ### Fixes
+> - fix: kanban compatibility issue
+> - fix: widget rendering issues
+
+> [!note]- 中文
+>
+> ### 新功能
+> - 新增：使用 PKMer OAuth 登录替代原有验证系统（请在 [pkmer.cn](https://pkmer.cn) 注册）
+> - 新增：自定义网格系统（TemplifyGrid）替代 react-grid-layout，支持拖拽、调整大小和外部拖放
+> - 新增：本地小组件类型 — 时钟、日历、待办事项和其他小组件（番茄钟、倒计时、习惯追踪器等）
+> - 新增：Dataview 小组件类型，可在布局中渲染 Dataview 查询
+> - 新增：Base 小组件类型，用于通用嵌入内容
+> - 新增：背景自定义 — 图案、图片和视频，支持透明度/模糊/大小控制
+> - 新增：横幅（封面图片）支持，可调整位置
+> - 新增：页面图标支持（图标和表情符号）
+> - 新增：背景图案样式（点、网格、线条、对角线、十字、锯齿、方块、菱形）
+>
+> ### 改进
+> - 重构：迁移到 Tailwind CSS v4，使用冒号前缀（`tpfy:`）以提升构建性能
+> - 重构：更新所有 UI 组件以适配新的 Tailwind 前缀规范
+> - 重构：改进文档同步逻辑和冲突解决
+> - 重构：提升整体渲染性能
+> - 重构：更新小组件配置和注册系统
+> - 新增：为所有新功能更新翻译（英文和中文）
+>
+> ### 修复
+> - 修复：看板兼容性问题
+> - 修复：小组件渲染问题
+
 # 0.2.0
 
 > [!note]+ English

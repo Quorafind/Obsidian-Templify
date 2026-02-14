@@ -49,6 +49,15 @@ And it will be rendered like:
 
 Not yet available
 
+## Verification
+
+Some features of Templify require a [PKMer](https://pkmer.cn) account. To unlock these features:
+
+1. Register an account at [pkmer.cn](https://pkmer.cn).
+2. Open the Templify plugin settings in Obsidian.
+3. Click **Login with PKMer** and follow the authentication flow.
+4. Once logged in, all premium features will be available.
+
 ## How to use
 
 1. Open the plugin by clicking the Templify icon in the left sidebar.
