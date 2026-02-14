@@ -1,15 +1,15 @@
 {
-	"name": "templify",
-	"version": "0.2.0",
-	"scripts": {
-		"release": "dotenv release-it --"
-	},
-	"devDependencies": {
-		"@release-it/bumper": "^6.0.1",
-		"dotenv-cli": "^7.4.1",
-		"globby": "^14.0.1",
-		"jszip": "^3.10.1",
-		"release-it": "^16.1.0",
-		"semver": "^7.6.0"
-	}
+  "name": "templify",
+  "version": "0.5.0",
+  "scripts": {
+    "release": "dotenv release-it --"
+  },
+  "devDependencies": {
+    "@release-it/bumper": "^6.0.1",
+    "dotenv-cli": "^7.4.1",
+    "globby": "^14.0.1",
+    "jszip": "^3.10.1",
+    "release-it": "^16.1.0",
+    "semver": "^7.6.0"
+  }
 }
