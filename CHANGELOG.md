@@ -1,3 +1,47 @@
+# 0.7.1
+
+> [!note]+ English
+>
+> ### New Features
+> - feat(block-editor): add CM6 inline block editor with side-by-side editing in Live Preview
+> - feat(block-editor): support drag-and-drop to reposition/dissolve blocks
+> - feat(block-editor): add context menu (submenu) with dissolve and delete block actions
+> - feat(block-editor): cross-group overlay positioning for multiple same-side blocks
+> - feat(draw-editor): add SVG drawing editor with pen, line, rect, ellipse, arrow, eraser, and text tools
+> - feat(draw-editor): add SVG serialization and auth gate for reading mode
+> - feat: support Templify share via Cloudflare
+>
+> ### Improvements
+> - refactor: migrate settings to SettingGroup API
+> - feat: support inline editor with height listener
+> - feat: block sub-editor detection via CM6 StateField for editor-menu integration
+>
+> ### Fixes
+> - fix(block-editor): skip hidden lines when computing padded ranges for overlapping BL/BR blocks
+> - fix(block-editor): padding left issue
+> - fix: cannot paste file in block editor
+
+> [!note]- 中文
+>
+> ### 新功能
+> - 新增（块编辑器）：CM6 内联块编辑器，支持实时预览中的并排编辑
+> - 新增（块编辑器）：支持拖拽重新定位/释放块
+> - 新增（块编辑器）：右键菜单（子菜单）支持释放块和删除块操作
+> - 新增（块编辑器）：跨组叠加定位，支持多个同侧块
+> - 新增（绘图编辑器）：SVG 绘图编辑器，支持画笔、直线、矩形、椭圆、箭头、橡皮擦和文本工具
+> - 新增（绘图编辑器）：SVG 序列化和阅读模式认证门控
+> - 新增：通过 Cloudflare 支持 Templify 分享
+>
+> ### 改进
+> - 重构：迁移设置到 SettingGroup API
+> - 新增：支持内联编辑器高度监听
+> - 新增：通过 CM6 StateField 检测块子编辑器，用于编辑器菜单集成
+>
+> ### 修复
+> - 修复（块编辑器）：计算重叠 BL/BR 块的填充范围时跳过隐藏行
+> - 修复（块编辑器）：左侧填充问题
+> - 修复：无法在块编辑器中粘贴文件
+
 # 0.5.0
 
 > [!note]+ English
