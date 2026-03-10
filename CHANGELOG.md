@@ -1,3 +1,9 @@
+# 0.7.2
+
+> [!note]+ 中文
+>
+> fix: 修复 oauth 回调问题
+
 # 0.7.1
 
 > [!note]+ English
